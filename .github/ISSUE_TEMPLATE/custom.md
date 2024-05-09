@@ -1,24 +1,22 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: For Pull Request
+about: For Making a Pull Request
+title: Pull Request
+labels: enhancement
 assignees: ''
 
 ---
 
-Task ID - Title
-GOF-024 Implement Profile view and contributions
+# Task ID - Title
+[ID] Title
 
-Description
+## Description
 Implement Profile view and contributions.
 
-Acceptance Criteria
-Verify that it can view all posted questions.
+## Acceptance Criteria
+* Verify that it can view all posted questions.
+* Verify that it can view answered questions.
+* Verify that it can view the real time data of contributions.
 
-Verify that it can view answered questions.
-
-Verify that it can view the real time data of contributions.
-
-TEST NOTES
-Verify that the pagination works properly.
+## TEST NOTES
+* Verify that the pagination works properly.
