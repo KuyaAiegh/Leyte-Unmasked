@@ -1,3 +1,5 @@
+RAMDOM HAHAHAHAHA
+
 # Leyte Unmasked
 
 Welcome to **Leyte Unmasked** :world_map:, your gateway to uncovering hidden treasures in Leyte that are cherished by locals but often overlooked by tourists :earth_asia:.
