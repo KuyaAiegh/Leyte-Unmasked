@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: For Bug Report
+about: adi gamita na template para pag post issue kanan Bug Report
 title: Bug Report
 labels: bug
 assignees: ''

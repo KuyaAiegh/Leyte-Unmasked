@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: adi gamita na template para Feature Request
 title: Feature Request
 labels: enhancement
 assignees: ''

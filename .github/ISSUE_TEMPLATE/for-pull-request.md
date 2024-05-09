@@ -1,6 +1,6 @@
 ---
 name: For Pull Request
-about: For Making a Pull Request
+about: adi naman for Pull Request
 title: Pull Request
 labels: enhancement
 assignees: ''
