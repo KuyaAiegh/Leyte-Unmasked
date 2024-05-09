@@ -49,6 +49,6 @@ From the Cypress Test Runner, you can execute tests and ensure the project's fun
 
 # Tech Stack:
 
-- ## Frontend Framework: `Next.js`
-- ## CSS Framework: `Tailwind`
-- ## Testing Framework: `Cypress`
+- ### Frontend Framework: `Next.js`
+- ### CSS Framework: `Tailwind`
+- ### Testing Framework: `Cypress`
