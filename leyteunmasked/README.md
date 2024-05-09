@@ -15,7 +15,8 @@ git clone https://github.com/your-username/Leyte-Unmasked.git
 npm install
 ```
 
-<br> 
+<br>
+
 ## Usage:
 
 To run the project, execute the following command:
@@ -43,3 +44,11 @@ npx cypress open
 ```
 
 From the Cypress Test Runner, you can execute tests and ensure the project's functionality is intact.
+
+<br>
+
+# Tech Stack:
+
+- ## Frontend Framework: `Next.js`
+- ## CSS Framework: `Tailwind`
+- ## Testing Framework: `Cypress`
