@@ -44,13 +44,6 @@ Stay updated on upcoming events and festivals near the hidden gems, enriching yo
 
 Prioritize your safety with expert tips and guidelines for traveling responsibly and securely in Leyte.
 
-## Tech Stack
-
-- Front End: Next.js
-- Backend: To be determined
-- Mapping: Google Maps API for navigation
-- Reviews API: Utilizing Google Maps API for reviews
-
 ## Get Started
 
 1. Begin your journey by exploring our collection of hidden gems.
